@@ -1,0 +1,61 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+html{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #fbf6fe;
+    margin: 0;
+}
+
+.nav-link{
+    float: right;
+    color: white;
+}
+.nav-link:hover{
+    background-color: rgb(214, 215, 250);
+}
+
+/* Banner section start*/
+.coloured-section{
+    background-color: beige;
+}
+.container_1{
+    text-align: center;
+}
+/* Banner section ends*/
+
+/* Dashboard section start*/
+.container_2{
+    text-align: center;
+}
+.second-section{
+    background-color: bisque;
+}
+/* Dashboard section ends*/
+
+/* footer css starts here */
+footer{
+    background-color:  #f4c5ab;
+}
+
+.social-icons li{
+    list-style: none;
+    display: inline;
+    padding: 0.5rem;
+}
+
+.github{
+    color: #24292e;
+}
+
+.linkedin{
+    color: #0077b5;
+}
+/* footer css ends here  */
